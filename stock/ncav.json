@@ -1,0 +1,26 @@
+{
+    "005930": {
+        "currentAssets": 212793019,
+        "liabilities": 113654600,
+        "stocks": [
+            {
+                "numbers": 5969782550,
+                "price": 71900
+            },
+            {
+                "numbers": 822886700,
+                "price": 66100
+            }
+        ]
+    },
+    "170790": {
+        "currentAssets": 57547,
+        "liabilities": 18573,
+        "stocks": [
+            {
+                "numbers": 6856330,
+                "price": 14550
+            }
+        ]
+    }
+}
