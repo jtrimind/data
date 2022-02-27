@@ -22,5 +22,85 @@
                 "price": 14550
             }
         ]
+    },
+    "000180": {
+        "currentAssets": 96209,
+        "liabilities": 177339,
+        "stocks": [
+            {
+                "numbers": 69751600,
+                "price": 2235
+            }
+        ]
+    },
+    "003300": {
+        "currentAssets": 937752,
+        "liabilities": 1215092,
+        "stocks": [
+            {
+                "numbers": 28815780,
+                "price": 12850
+            }
+        ]
+    },
+    "004150": {
+        "currentAssets": 162394,
+        "liabilities": 100654,
+        "stocks": [
+            {
+                "numbers": 42008577,
+                "price": 3240
+            }
+        ]
+    },
+    "012630": {
+        "currentAssets": 6323280,
+        "liabilities": 5750869,
+        "stocks": [
+            {
+                "numbers": 59741721,
+                "price": 7510
+            }
+        ]
+    },
+    "017940": {
+        "currentAssets": 1703723,
+        "liabilities": 2697254,
+        "stocks": [
+            {
+                "numbers": 6860000,
+                "price": 46950
+            }
+        ]
+    },
+    "067830": {
+        "currentAssets": 73801,
+        "liabilities": 101277,
+        "stocks": [
+            {
+                "numbers": 41040895,
+                "price": 3035
+            }
+        ]
+    },    
+    "071320": {
+        "currentAssets": 319575,
+        "liabilities": 4201344,
+        "stocks": [
+            {
+                "numbers": 11578744,
+                "price": 35300
+            }
+        ]
+    },
+    "071840": {
+        "currentAssets": 874034,
+        "liabilities": 1253071,
+        "stocks": [
+            {
+                "numbers": 23607712,
+                "price": 22700
+            }
+        ]
     }
 }
