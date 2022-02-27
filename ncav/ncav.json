@@ -1,0 +1,554 @@
+{
+    "001940": {
+        "name": "KISCO홀딩스",
+        "currentAssets": 1160346983305,
+        "liabilities": 231484739958,
+        "ncav": 928862243347,
+        "marketcap": 287307709000,
+        "ratio": 0.3093114303
+    },
+    "053350": {
+        "name": "이니텍",
+        "currentAssets": 240885069602,
+        "liabilities": 49710560410,
+        "ncav": 191174509192,
+        "marketcap": 90048667800,
+        "ratio": 0.4710286334
+    },
+    "013120": {
+        "name": "동원개발",
+        "currentAssets": 1165532134924,
+        "liabilities": 243001429486,
+        "ncav": 922530705438,
+        "marketcap": 438603123000,
+        "ratio": 0.475434715
+    },
+    "009970": {
+        "name": "영원무역홀딩스",
+        "currentAssets": 2371379222918,
+        "liabilities": 1050390589451,
+        "ncav": 1320988633467,
+        "marketcap": 632009689200,
+        "ratio": 0.4784368867
+    },
+    "007680": {
+        "name": "대원",
+        "currentAssets": 442145645317,
+        "liabilities": 221974788213,
+        "ncav": 220170857104,
+        "marketcap": 121018266000,
+        "ratio": 0.5496561516
+    },
+    "002170": {
+        "name": "삼양통상",
+        "currentAssets": 343037094907,
+        "liabilities": 47515419925,
+        "ncav": 295521674982,
+        "marketcap": 167400000000,
+        "ratio": 0.5664559123
+    },
+    "005680": {
+        "name": "삼영전자",
+        "currentAssets": 366693845273,
+        "liabilities": 28836666712,
+        "ncav": 337857178561,
+        "marketcap": 204000000000,
+        "ratio": 0.603805433
+    },
+    "005710": {
+        "name": "대원산업",
+        "currentAssets": 359796544748,
+        "liabilities": 167763051142,
+        "ncav": 192033493606,
+        "marketcap": 125235000000,
+        "ratio": 0.6521518598
+    },
+    "126560": {
+        "name": "현대퓨처넷",
+        "currentAssets": 798186164975,
+        "liabilities": 160836932501,
+        "ncav": 637349232474,
+        "marketcap": 417643405200,
+        "ratio": 0.655281883
+    },
+    "011370": {
+        "name": "서한",
+        "currentAssets": 544681647486,
+        "liabilities": 314146802086,
+        "ncav": 230534845400,
+        "marketcap": 152855720475,
+        "ratio": 0.6630482269
+    },
+    "003650": {
+        "name": "미창석유",
+        "currentAssets": 247101337784,
+        "liabilities": 42219443124,
+        "ncav": 204881894660,
+        "marketcap": 138999792800,
+        "ratio": 0.6784386343
+    },
+    "008060": {
+        "name": "대덕",
+        "currentAssets": 637707934272,
+        "liabilities": 271841135494,
+        "ncav": 365866798778,
+        "marketcap": 248753701000,
+        "ratio": 0.6799023629
+    },
+    "043370": {
+        "name": "피에이치에이",
+        "currentAssets": 552697639078,
+        "liabilities": 305258211804,
+        "ncav": 247439427274,
+        "marketcap": 185010000000,
+        "ratio": 0.7476981419
+    },
+    "037460": {
+        "name": "삼지전자",
+        "currentAssets": 735162147317,
+        "liabilities": 500852896175,
+        "ncav": 234309251142,
+        "marketcap": 177871889800,
+        "ratio": 0.7591330216
+    },
+    "012630": {
+        "name": "HDC",
+        "currentAssets": 6323280445929,
+        "liabilities": 5750868531494,
+        "ncav": 572411914435,
+        "marketcap": 448660324710,
+        "ratio": 0.7838067542
+    },
+    "041440": {
+        "name": "현대에버다임",
+        "currentAssets": 204884242971,
+        "liabilities": 99447703557,
+        "ncav": 105436539414,
+        "marketcap": 84115357080,
+        "ratio": 0.7977818463
+    },
+    "081000": {
+        "name": "일진다이아",
+        "currentAssets": 528378030831,
+        "liabilities": 102018503197,
+        "ncav": 426359527634,
+        "marketcap": 361465713750,
+        "ratio": 0.8477955583
+    },
+    "088130": {
+        "name": "동아엘텍",
+        "currentAssets": 156366769421,
+        "liabilities": 41840307898,
+        "ncav": 114526461523,
+        "marketcap": 98738805880,
+        "ratio": 0.8621484028
+    },
+    "005160": {
+        "name": "동국산업",
+        "currentAssets": 460432800542,
+        "liabilities": 253748949553,
+        "ncav": 206683850989,
+        "marketcap": 179820457830,
+        "ratio": 0.8700266468
+    },
+    "009680": {
+        "name": "모토닉",
+        "currentAssets": 354962428093,
+        "liabilities": 26478626077,
+        "ncav": 328483802016,
+        "marketcap": 293370000000,
+        "ratio": 0.8931033987
+    },
+    "093920": {
+        "name": "서원인텍",
+        "currentAssets": 166882447347,
+        "liabilities": 40420218375,
+        "ncav": 126462228972,
+        "marketcap": 116064000000,
+        "ratio": 0.9177760106
+    },
+    "267270": {
+        "name": "현대건설기계",
+        "currentAssets": 2577038730000,
+        "liabilities": 1875291302000,
+        "ncav": 701747428000,
+        "marketcap": 657021446550,
+        "ratio": 0.9362648445
+    },
+    "104700": {
+        "name": "한국철강",
+        "currentAssets": 564960423852,
+        "liabilities": 161790116380,
+        "ncav": 403170307472,
+        "marketcap": 379452000000,
+        "ratio": 0.9411705003
+    },
+    "013030": {
+        "name": "하이록코리아",
+        "currentAssets": 276882096814,
+        "liabilities": 31884885192,
+        "ncav": 244997211622,
+        "marketcap": 234828252000,
+        "ratio": 0.95849357
+    },
+    "035000": {
+        "name": "지투알",
+        "currentAssets": 432500649543,
+        "liabilities": 323327481194,
+        "ncav": 109173168349,
+        "marketcap": 104706024880,
+        "ratio": 0.9590820388
+    },
+    "015230": {
+        "name": "대창단조",
+        "currentAssets": 189817963451,
+        "liabilities": 70435675898,
+        "ncav": 119382287553,
+        "marketcap": 115288948050,
+        "ratio": 0.9657123382
+    },
+    "092440": {
+        "name": "기신정기",
+        "currentAssets": 149573694417,
+        "liabilities": 14172539328,
+        "ncav": 135401155089,
+        "marketcap": 132714000000,
+        "ratio": 0.9801541199
+    },
+    "058850": {
+        "name": "KTcs",
+        "currentAssets": 280064189159,
+        "liabilities": 186467445357,
+        "ncav": 93596743802,
+        "marketcap": 92839875000,
+        "ratio": 0.9919135135
+    },
+    "025000": {
+        "name": "KPX케미칼",
+        "currentAssets": 445692783323,
+        "liabilities": 195692710478,
+        "ncav": 250000072845,
+        "marketcap": 255552000000,
+        "ratio": 1.0222077021
+    },
+    "079960": {
+        "name": "동양이엔피",
+        "currentAssets": 213529924212,
+        "liabilities": 88176709264,
+        "ncav": 125353214948,
+        "marketcap": 131655000000,
+        "ratio": 1.0502722252
+    },
+    "001130": {
+        "name": "대한제분",
+        "currentAssets": 661851996676,
+        "liabilities": 393117943251,
+        "ncav": 268734053425,
+        "marketcap": 283075000000,
+        "ratio": 1.0533648281
+    },
+    "004560": {
+        "name": "현대비앤지스틸",
+        "currentAssets": 500151768954,
+        "liabilities": 267535389192,
+        "ncav": 232616379762,
+        "marketcap": 245030678750,
+        "ratio": 1.0533681205
+    },
+    "003610": {
+        "name": "방림",
+        "currentAssets": 164971587442,
+        "liabilities": 48238679343,
+        "ncav": 116732908099,
+        "marketcap": 127576981350,
+        "ratio": 1.0928964542
+    },
+    "015860": {
+        "name": "일진홀딩스",
+        "currentAssets": 982699846090,
+        "liabilities": 776796117605,
+        "ncav": 205903728485,
+        "marketcap": 226504946970,
+        "ratio": 1.1000526733
+    },
+    "093190": {
+        "name": "빅솔론",
+        "currentAssets": 131628771621,
+        "liabilities": 23450064182,
+        "ncav": 108178707439,
+        "marketcap": 119473600050,
+        "ratio": 1.1044095726
+    },
+    "001880": {
+        "name": "DL건설",
+        "currentAssets": 1126183331253,
+        "liabilities": 604535526716,
+        "ncav": 521647804537,
+        "marketcap": 582206697600,
+        "ratio": 1.1160915325
+    },
+    "064800": {
+        "name": "젬백스링크",
+        "currentAssets": 168477354298,
+        "liabilities": 60837162452,
+        "ncav": 107640191846,
+        "marketcap": 121024174785,
+        "ratio": 1.1243400138
+    },
+    "049430": {
+        "name": "코메론",
+        "currentAssets": 93703134722,
+        "liabilities": 19311178533,
+        "ncav": 74391956189,
+        "marketcap": 87041760000,
+        "ratio": 1.1700426291
+    },
+    "010960": {
+        "name": "삼호개발",
+        "currentAssets": 163756939704,
+        "liabilities": 68782077684,
+        "ncav": 94974862020,
+        "marketcap": 111250000000,
+        "ratio": 1.1713625862
+    },
+    "016090": {
+        "name": "대현",
+        "currentAssets": 148242095805,
+        "liabilities": 58517610786,
+        "ncav": 89724485019,
+        "marketcap": 105613309350,
+        "ratio": 1.1770845977
+    },
+    "053260": {
+        "name": "금강철강",
+        "currentAssets": 111151581172,
+        "liabilities": 35090740741,
+        "ncav": 76060840431,
+        "marketcap": 90136800000,
+        "ratio": 1.1850618464
+    },
+    "089470": {
+        "name": "HDC현대EP",
+        "currentAssets": 385584427298,
+        "liabilities": 258341848711,
+        "ncav": 127242578587,
+        "marketcap": 151365500000,
+        "ratio": 1.1895821484
+    },
+    "100840": {
+        "name": "SNT에너지",
+        "currentAssets": 199272058681,
+        "liabilities": 83716532461,
+        "ncav": 115555526220,
+        "marketcap": 140750831250,
+        "ratio": 1.2180363489
+    },
+    "052790": {
+        "name": "액토즈소프트",
+        "currentAssets": 224386742138,
+        "liabilities": 118016945590,
+        "ncav": 106369796548,
+        "marketcap": 135401124100,
+        "ratio": 1.2729282982
+    },
+    "013570": {
+        "name": "디와이",
+        "currentAssets": 529245501290,
+        "liabilities": 364513494794,
+        "ncav": 164732006496,
+        "marketcap": 210030671340,
+        "ratio": 1.2749839925
+    },
+    "046140": {
+        "name": "SBS콘텐츠허브",
+        "currentAssets": 166666194685,
+        "liabilities": 45802223034,
+        "ncav": 120863971651,
+        "marketcap": 154752231550,
+        "ratio": 1.2803834711
+    },
+    "228850": {
+        "name": "레이언스",
+        "currentAssets": 187520233545,
+        "liabilities": 40415295434,
+        "ncav": 147104938111,
+        "marketcap": 189967110300,
+        "ratio": 1.2913714029
+    },
+    "127710": {
+        "name": "아시아경제",
+        "currentAssets": 128624367681,
+        "liabilities": 58229666710,
+        "ncav": 70394700971,
+        "marketcap": 92431608480,
+        "ratio": 1.3130478176
+    },
+    "003570": {
+        "name": "SNT중공업",
+        "currentAssets": 459262591600,
+        "liabilities": 249606467161,
+        "ncav": 209656124439,
+        "marketcap": 276662439040,
+        "ratio": 1.3196010361
+    },
+    "005010": {
+        "name": "휴스틸",
+        "currentAssets": 371785023987,
+        "liabilities": 266421573895,
+        "ncav": 105363450092,
+        "marketcap": 141077070000,
+        "ratio": 1.3389564396
+    },
+    "155660": {
+        "name": "DSR",
+        "currentAssets": 167574150413,
+        "liabilities": 103773688664,
+        "ncav": 63800461749,
+        "marketcap": 85760000000,
+        "ratio": 1.3441908985
+    },
+    "065130": {
+        "name": "탑엔지니어링",
+        "currentAssets": 377430952080,
+        "liabilities": 295681945600,
+        "ncav": 81749006480,
+        "marketcap": 109916648160,
+        "ratio": 1.3445624955
+    },
+    "003200": {
+        "name": "일신방직",
+        "currentAssets": 483649366447,
+        "liabilities": 271842947879,
+        "ncav": 211806418568,
+        "marketcap": 285600000000,
+        "ratio": 1.3484010632
+    },
+    "068790": {
+        "name": "DMS",
+        "currentAssets": 238124528076,
+        "liabilities": 124683197928,
+        "ncav": 113441330148,
+        "marketcap": 153581631250,
+        "ratio": 1.3538419468
+    },
+    "002460": {
+        "name": "화성산업",
+        "currentAssets": 527065846658,
+        "liabilities": 338499279820,
+        "ncav": 188566566838,
+        "marketcap": 255863940000,
+        "ratio": 1.3568892105
+    },
+    "078890": {
+        "name": "가온미디어",
+        "currentAssets": 352118921295,
+        "liabilities": 212097253610,
+        "ncav": 140021667685,
+        "marketcap": 190223352000,
+        "ratio": 1.3585279703
+    },
+    "036190": {
+        "name": "금화피에스시",
+        "currentAssets": 172573663091,
+        "liabilities": 34393429133,
+        "ncav": 138180233958,
+        "marketcap": 190200000000,
+        "ratio": 1.3764631493
+    },
+    "003030": {
+        "name": "세아제강지주",
+        "currentAssets": 1741614480857,
+        "liabilities": 1364419696532,
+        "ncav": 377194784325,
+        "marketcap": 525990439000,
+        "ratio": 1.3944796186
+    },
+    "115390": {
+        "name": "락앤락",
+        "currentAssets": 490867878879,
+        "liabilities": 122535252481,
+        "ncav": 368332626398,
+        "marketcap": 520659181400,
+        "ratio": 1.4135570517
+    },
+    "023160": {
+        "name": "태광",
+        "currentAssets": 237697890759,
+        "liabilities": 44537721677,
+        "ncav": 193160169082,
+        "marketcap": 274275000000,
+        "ratio": 1.419935597
+    },
+    "029460": {
+        "name": "케이씨",
+        "currentAssets": 372229887857,
+        "liabilities": 191182166909,
+        "ncav": 181047720948,
+        "marketcap": 258204538200,
+        "ratio": 1.4261683983
+    },
+    "000970": {
+        "name": "한국주철관",
+        "currentAssets": 224240994427,
+        "liabilities": 76627582536,
+        "ncav": 147613411891,
+        "marketcap": 211360635000,
+        "ratio": 1.4318525146
+    },
+    "052330": {
+        "name": "코텍",
+        "currentAssets": 153682583968,
+        "liabilities": 41018357233,
+        "ncav": 112664226735,
+        "marketcap": 161975340800,
+        "ratio": 1.4376820886
+    },
+    "014620": {
+        "name": "성광벤드",
+        "currentAssets": 219097505065,
+        "liabilities": 56116198968,
+        "ncav": 162981306097,
+        "marketcap": 234520000000,
+        "ratio": 1.4389380329
+    },
+    "210540": {
+        "name": "디와이파워",
+        "currentAssets": 228986913363,
+        "liabilities": 124315855956,
+        "ncav": 104671057407,
+        "marketcap": 151271399600,
+        "ratio": 1.445207523
+    },
+    "192440": {
+        "name": "슈피겐코리아",
+        "currentAssets": 241732624054,
+        "liabilities": 59482886128,
+        "ncav": 182249737926,
+        "marketcap": 263573791200,
+        "ratio": 1.4462231562
+    },
+    "031820": {
+        "name": "콤텍시스템",
+        "currentAssets": 161518951033,
+        "liabilities": 85839955703,
+        "ncav": 75678995330,
+        "marketcap": 110519988458,
+        "ratio": 1.4603786424
+    },
+    "226320": {
+        "name": "잇츠한불",
+        "currentAssets": 361405753726,
+        "liabilities": 37408893796,
+        "ncav": 323996859930,
+        "marketcap": 475866135500,
+        "ratio": 1.4687368748
+    },
+    "170030": {
+        "name": "현대공업",
+        "currentAssets": 105332473774,
+        "liabilities": 40447978684,
+        "ncav": 64884495090,
+        "marketcap": 96488600000,
+        "ratio": 1.4870825436
+    }
+}
